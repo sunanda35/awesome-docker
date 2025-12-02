@@ -176,6 +176,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Stacker](https://github.com/stacker/stacker-cli) :skull: - Docker Compose Templates. Stacker provides an abstraction layer over Docker Compose and a better DX (developer experience).
 -   [Stitchocker](https://github.com/alexaandrov/stitchocker) - A lightweight and fast command line utility for conveniently grouping your docker-compose multiple container services. By [@alexaandrov](https://github.com/alexaandrov)
 -   [Zodiac](https://github.com/CenturyLinkLabs/zodiac) :skull: - A lightweight tool for easy deployment and rollback of dockerized applications. By [@CenturyLinkLabs][centurylinklabs]
+-   [Docker Run Compose]([https://link-to-your-tool](https://devutils.lol/tools/docker-run-to-compose)) - Converts docker run commands to docker-compose and Kubernetes manifests. Also it Extract Env Vars automatically and give option to download as a env file.
 
 ### Deployment and Infrastructure
 
